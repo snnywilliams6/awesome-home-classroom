@@ -22,6 +22,7 @@ Pull requests are encouraged.  Please do not include affiliate links (they will 
 ## Online Education for Older Kids
 * [Big History Project](https://school.bighistoryproject.com/bhplive)
 * [Brain Pop](https://www.brainpop.com/) &#x1F4B5;
+* [Tiny Docs](https://tinydocs.co/) 💵
 
 ## Digital Libraries for Kids
 * [Get Epic](https://www.getepic.com) &#x1F4B5;
